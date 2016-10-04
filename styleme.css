@@ -1,0 +1,56 @@
+h1, h2, p{
+  color: #ffffff;
+  font-family: Arial, Verdana, Courier;
+  size: 20px;
+}
+
+p{
+  drop-caps
+}
+body, #mainContainer{
+  background-color: red;
+}
+
+#mainText{
+  background-color: blue;
+
+}
+
+#imgDiv{
+  position: static;
+}
+
+div{
+  display: block;
+}
+
+ul{
+  float: left;
+  vertical-align: top;
+  width: 450px;
+
+}
+ol{
+  float:right;
+  vertical-align: top;
+  width: 450px;
+  color: yellow;
+}
+
+#imgDiv{
+  clear:both;
+  position: static;
+}
+
+img{
+  width: 50px;
+  height: 50px;
+}
+
+a{
+  color: yellow;
+}
+
+a:hover{
+  color: green;
+}
